@@ -1,0 +1,9 @@
+diff a/Assets/Scenes/MainScene.unity b/Assets/Scenes/MainScene.unity	(rejected hunks)
+@@ -225,6 +225,7 @@
+   - {fileID: 1849417314}
+   - {fileID: 806962471}
+   m_Father: {fileID: 0}
++  m_RootOrder: 1
+   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+   m_AnchorMin: {x: 0, y: 0}
+   m_AnchorMax: {x: 0, y: 0}
